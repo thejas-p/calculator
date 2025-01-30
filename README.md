@@ -15,3 +15,18 @@ This is a simple calculator application built using Java and JFrame. It provides
    ```bash
    git clone https://github.com/your-username/calculator.git
 
+2. **Navigate to the project directory**:
+   ```bash
+   cd calculator
+   
+3. **Compile the Java files**:
+   ```bash
+   javac Calculator.java
+   
+4. **Run the application**:
+   ```bash
+   javac Calculator.java
+
+   
+
+
